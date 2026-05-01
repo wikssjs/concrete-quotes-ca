@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /concrete-quote/
+Crawl-delay: 2
+
+Sitemap: https://concrete-quotes.ca/sitemap-index.xml
